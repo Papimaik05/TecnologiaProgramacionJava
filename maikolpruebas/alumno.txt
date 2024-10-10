@@ -1,0 +1,4 @@
+Miguel Mateos Matias migmat05@ucm.es Grupo 50
+-i resources/examples/ex1.json -t 300
+
+He realizado los test,he tenido que cambiar los nombres en alguna funcion y arreglar alguna excepcion,además he hecho una función para comprobar lo del itinerario,que antes no lo hacia
